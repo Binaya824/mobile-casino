@@ -1,0 +1,15 @@
+/* src/fonts.css */
+@font-face {
+    font-family: 'Kanit Light';
+    src: url('../fonts/Kanit-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Kanit Light Italic';
+    src: url('../fonts/Kanit-LightItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
